@@ -1,0 +1,16 @@
+{
+  "name": "ai-image-html-alt",
+  "version": "1.0.0",
+  "description": "Automatically generate alt text descriptions of images in a web (HTML) page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.10.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
